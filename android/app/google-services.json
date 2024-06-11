@@ -1,0 +1,47 @@
+{
+  "project_info": {
+    "project_number": "105894218706",
+    "firebase_url": "https://baitaplon-92932-default-rtdb.firebaseio.com",
+    "project_id": "baitaplon-92932",
+    "storage_bucket": "baitaplon-92932.appspot.com"
+  },
+  "client": [
+    {
+      "client_info": {
+        "mobilesdk_app_id": "1:105894218706:android:3e59d85c012d17af13160b",
+        "android_client_info": {
+          "package_name": "com.example.btl_mobile"
+        }
+      },
+      "oauth_client": [
+        {
+          "client_id": "105894218706-rsq6igrh06tp0k9abh4n4r60t8es0dr2.apps.googleusercontent.com",
+          "client_type": 3
+        }
+      ],
+      "api_key": [
+        {
+          "current_key": "AIzaSyBJRfAat6ELio98f9pOUQgHGiOwsaFYxBQ"
+        }
+      ],
+      "services": {
+        "appinvite_service": {
+          "other_platform_oauth_client": [
+            {
+              "client_id": "105894218706-rsq6igrh06tp0k9abh4n4r60t8es0dr2.apps.googleusercontent.com",
+              "client_type": 3
+            },
+            {
+              "client_id": "105894218706-oqm9fnu7av1afdci3pqugcon58v155jt.apps.googleusercontent.com",
+              "client_type": 2,
+              "ios_info": {
+                "bundle_id": "com.example.btlMobile"
+              }
+            }
+          ]
+        }
+      }
+    }
+  ],
+  "configuration_version": "1"
+}
